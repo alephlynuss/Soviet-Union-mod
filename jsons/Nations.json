@@ -29,8 +29,8 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [255,255,0],
+		"innerColor": [255,0,0],
 		"uniqueName": "Great Patriotic War",
 		"unique": ["[{Military} {Land}] units gain the [Medic] promotion"],
 		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
